@@ -89,9 +89,6 @@ def rust_identification (input_img ,output_img = 'no need'):
 
 
 
-# x,y,z = rust_identification ('D:/Users\eric\Desktop\data/image/45.png','D:/Users\eric\Desktop/45.png')
-# print (x) 
-# print (y)
-# print (z)
+
 
 
